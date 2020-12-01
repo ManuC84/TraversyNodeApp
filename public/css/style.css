@@ -7,3 +7,16 @@ p {
   margin-top: 50px;
   text-align: center;
 }
+
+.fa-small {
+  font-size: 16px !important;
+}
+
+.button-container {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.img-small {
+  width: 180px;
+}
